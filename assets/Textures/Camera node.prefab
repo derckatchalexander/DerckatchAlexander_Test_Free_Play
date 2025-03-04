@@ -1,0 +1,93 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Camera node",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "persistent": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Camera node",
+    "_objFlags": 0,
+    "__editorExtras__": {},
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": -2,
+      "y": 9.999999999999886,
+      "z": 32
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": -0.09618631152692643,
+      "y": -0.12213382902817095,
+      "z": -0.003058600716280745,
+      "w": 0.9878371152388541
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 0.9999999999999999
+    },
+    "_mobility": 0,
+    "_layer": 33554432,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": -11,
+      "y": -14.000000000000005,
+      "z": 1.0000000000000002
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "07994domsBCQr8VplCjQFna",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 3
+    },
+    "player": null,
+    "camera": null,
+    "distanceX": -2,
+    "distanceY": 10,
+    "distanceZ": 32,
+    "angleX": -11,
+    "angleY": -14,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "c4WmiQLa9Ct7p5hXqT5Bza"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "1192W0b9ZFFqbK8qhrJLrp",
+    "targetOverrides": null
+  }
+]
